@@ -3,10 +3,12 @@
 @interface YTUIResources : NSObject
 + (UIImage *)actionsheetDefaultImage;
 + (UIImage *)bookmarkOutline;
++ (UIImage *)closedCaptionIconImage;
 + (UIImage *)iconAccountCircle;
 + (UIImage *)iconAccountCircleDark;
 + (UIImage *)iconCheckTemplateImage;
 + (UIImage *)tabIconAccountImageWithSelected:(BOOL)selected;
 + (UIImage *)xCircleOutline;
++ (UIImage *)outlineTextWithColor:(UIColor *)color;
 + (BOOL)delhiIconsEnabled;
 @end
