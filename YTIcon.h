@@ -41,6 +41,7 @@ typedef enum {
     YT_NOTIFICATIONS = 264, // Non-Outline
     YT_NOTIFICATIONS_NONE = 269, // Outline
     YT_EMOJI = 279,
+    YT_TAB_EXPLORE = 292,
     YT_LIKE_SELECTED = 301,
     YT_DISLIK_SELECTED = 302,
     YT_MONEY_FILL = 321,
@@ -83,6 +84,7 @@ typedef enum {
     YT_CAST_OUTLINE = 886,
     YT_AUDIO = 891,
     YT_TEXT = 897,
+    YT_PERSON_MINUS = 902,
     YT_SELL = 903,
     YT_MOON_Z = 916,
     YT_BAG = 930,
